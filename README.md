@@ -6,7 +6,7 @@ it has few features though that might make it nice to use :
 
 * mongodb support by default 127.0.0.1:27017 
 * multithreaded 
-* you can retrieve from db the links where they where firstly originated.
+* you can retrieve from db the links where they wddhere firstly originated.
 
 ## Let's dig inside command line 
 
